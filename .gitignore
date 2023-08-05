@@ -1,1 +1,2 @@
-datasets/original
+# Ignore dataset files for storing on Git
+datasets/
